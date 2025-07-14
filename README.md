@@ -11,7 +11,9 @@ This project is a smart AI agent powered by LangGraph and GPT‑4.1, designed us
 🧱 Clean, Extendable Architecture: Easily expandable for new tools or model variations.
 
 This is the Graph:
-![alt text](image-1.png)
+
+<img width="225" height="249" alt="image" src="https://github.com/user-attachments/assets/ba0e3d2e-90a0-4a2f-95e1-fb3cc9d806e5" />
+
 
 
 📂 File Structure
